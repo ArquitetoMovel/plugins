@@ -4,12 +4,16 @@
     "name": "Alexandre Danelon (Arquiteto Móvel)",
     "email": "alexandre.danelon@outlook.com"
   },
+  "metadata": {
+    "description": "Marketplace de plugins de IA multiplataforma (Claude Code, Copilot CLI, Cursor)",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "dotnet-unity-tests-plugin",
-      "source": "./",
+      "source": "./dotnet-unity-tests",
       "version": "1.0.0",
-      "description": "Um planejador, revisor e criador de testes unitários para dotnet",
+      "description": "Planejador, revisor e criador de testes unitários para dotnet com suporte a Claude Code, Copilot CLI e Cursor",
       "category": "testing",
       "keywords": ["dotnet", "unit-tests", "xunit", "mstest", "testing", "csharp"]
     }
