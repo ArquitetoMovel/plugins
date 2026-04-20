@@ -53,13 +53,6 @@ Para **Cursor**, importe este repositório em *Dashboard → Settings → Plugin
 2. Acrescente o plugin nos quatro `marketplace.json` do repositório (`./marketplace.json`, `.claude-plugin/`, `.cursor-plugin/`, `.github/plugin/`).
 3. Adicione uma linha na tabela **Catálogo** e uma subseção em **Plugins** neste arquivo.
 
-## Referências
-
-- Especificação do repositório: [`spec-modular-plugins.md`](./spec-modular-plugins.md)
-- Claude Code: [`claude-plugins-ref.md`](./claude-plugins-ref.md) · [`claude-plugins-market-place.md`](./claude-plugins-market-place.md)
-- Copilot CLI: [`copilot-plugins-ref.md`](./copilot-plugins-ref.md) · [`copilot-plugins-market-place.md`](./copilot-plugins-market-place.md)
-- Cursor: [`cursor-plugins-ref.md`](./cursor-plugins-ref.md)
-
 ## Autor
 
 Alexandre Danelon (Arquiteto Móvel) — MIT License
